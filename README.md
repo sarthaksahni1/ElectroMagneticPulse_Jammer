@@ -5,7 +5,7 @@ An electromagnetic pulse (EMP), also sometimes called a transient electromagneti
 
 <b>Demo:</b><br>
 
-![Calculator](https://raw.githubusercontent.com/sarthaksahni1/ElectroMagneticPulse_Jammer/master/Calculator.gif)<br>
+![Calculator](https://raw.githubusercontent.com/sarthaksahni1/ElectroMagneticPulse_Jammer/master/Calculator.gif)
 ![Watch](https://raw.githubusercontent.com/sarthaksahni1/ElectroMagneticPulse_Jammer/master/Watch.gif)<br>
 
 <b>Circuit Diagram:</b><br>
