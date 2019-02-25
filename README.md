@@ -4,7 +4,9 @@ ElectroMagnetic Pulse Jammer - Jams the electronic devices signals such as Mobil
 An electromagnetic pulse (EMP), also sometimes called a transient electromagnetic disturbance, is a short burst of electromagnetic energy. Such a pulse may occur in the form of a radiated electric or magnetic field or conducted electrical current depending on the source. EMP Jammer is a device capable of generating a transient electromagnetic disturbance that radiates outward from its epicenter, disrupting electronic devices.<br>
 
 <b>Circuit Diagram:</b><br>
-![Circuit](https://raw.githubusercontent.com/sarthaksahni1/EMP_Jammer/master/NORMAL-2038-3.jpeg)<br>
+
+![Circuit](https://raw.githubusercontent.com/sarthaksahni1/ElectroMagneticPulse_Jammer/master/Circuit.jpg)<br>
+
 <b>Construction:</b><br>
 1. Take out the circuit out of the mosquito zapper.
 
@@ -23,6 +25,10 @@ An electromagnetic pulse (EMP), also sometimes called a transient electromagneti
 8. Now apply a piece double sided tape to case and fix the battery.
 
 Here the circuit construction completed.
+
+<b>Prototype</b><br>
+
+![Circuit](https://raw.githubusercontent.com/sarthaksahni1/ElectroMagneticPulse_Jammer/master/EMPJammer.jpg)<br>
 
 <b>Note : While using this device, keep your electronic devices away , because it may damage you device. I will not recommended to use it. I made this for educational purpose only.
 
